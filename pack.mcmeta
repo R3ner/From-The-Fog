@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "§8first steps for v26.1.2 | Original by §5☆Lunar Eclipse Studios☆",
+    "pack_format": 78,
+    "supported_formats": {
+      "min_inclusive": 78,
+      "max_inclusive": 82
+    }
+  }
+}

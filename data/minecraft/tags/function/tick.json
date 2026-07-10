@@ -1,6 +1,6 @@
 {
-	"replace": false,
-	"values": [
-		"lunareclipse.watching:main/tick"
-	]
+  "replace": false,
+  "values": [
+    "lunareclipse.watching:main/tick"
+  ]
 }

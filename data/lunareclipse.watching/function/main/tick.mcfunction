@@ -16,4 +16,4 @@ execute as @e[type=marker,tag=watching.pivot] at @s unless entity @a[tag=watchin
 execute as @e[type=marker,tag=watching.structure,tag=!watching.center] at @s run function lunareclipse.watching:structures/remove_base/start with entity @s data
 
 # Make the skin display in the config spin.
-execute if data storage lunareclipse.watching:config_options {config:{preview_spinning:"true"}} as @e[type=minecraft:armor_stand,tag=watching.preview_skin_pivot] at @s run tp @s ~ ~ ~ ~2 ~
+execute if data storage lunareclipse.watching:config_options {config:{preview_spinning:"true"}} as @e[type=minecraft:armor_stand,tag=watching.preview_skin_pivot] at @s run teleport @s ~ ~ ~ ~2 ~
