@@ -1,3 +1,16 @@
+# From The Fog
+
+> [!NOTE]
+> **Unofficial Port & Maintenance Fork**  
+> This repository is a dedicated fork of the original project by **Lunar Eclipse Studios**. 
+> * **Original Repository:** [LunarEclipseStudios/From-The-Fog](https://github.com/LunarEclipseStudios/From-The-Fog)
+> * **Port Author:** [R3ner](https://github.com/R3ner)
+> * **Target Version:** Fully adapted and optimized for **Minecraft 26.1.2**.
+
+---
+
+<!-- [All original README content with images, sponsors, etc. remains unmodified below] -->
+
 ![logo](https://cdn.lunareclipse.studio/img/projects/from-the-fog/banner-text.webp)
 
 ## **Mod/Datapack for Minecraft: Java Edition**
