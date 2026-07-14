@@ -1,0 +1,26 @@
+{
+  "music_disc.11": {
+    "sounds": [
+      {
+        "name": "lunareclipse.watching:music_disc/deathbed",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "lunareclipse.watching:music_disc/herobrine_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.5": {
+    "sounds": [
+      {
+        "name": "lunareclipse.watching:music_disc/hes_from_the_fog",
+        "stream": true
+      }
+    ]
+  }
+}
